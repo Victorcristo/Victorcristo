@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Victor Cristo
 
-**`Desenvolvedor Back-end`**
+**`Programador`**
 
-"Me chamo Victor Cristo, tenho 24 anos e sou natural de Belém do Pará. Sou bacharel em Ciência da Computação pela Universidade da Amazônia (UNAMA) e venho me dedicando ao aprimoramento constante das minhas habilidades em programação, com foco em desenvolvimento Back-End. Embora ainda não possua experiência em empresas da área, venho adquirindo conhecimento prático por meio de projetos e trilhas de estudo, onde utilizo tecnologias como Node.js, Java e bancos de dados relacionais e não relacionais. Sou uma pessoa proativa, organizada e com facilidade em aprender novas tecnologias, além de valorizar o trabalho em equipe. Estou em busca da minha primeira oportunidade como desenvolvedor Back-End, para aplicar meus conhecimentos, aprender com profissionais mais experientes e contribuir para projetos desafiadores e de grande impacto."
+"Me chamo Victor Cristo, tenho 24 anos e sou natural de Belém do Pará. Sou bacharel em Ciência da Computação pela Universidade da Amazônia (UNAMA) e venho me dedicando ao aprimoramento constante das minhas habilidades em programação com foco em se tornar um Dev Full Stack. Embora ainda não possua experiência em empresas da área, venho adquirindo conhecimento prático por meio de projetos e trilhas de estudo, onde utilizo tecnologias como HTML, CSS, Python, React e bancos de dados relacionais e não relacionais. Sou uma pessoa proativa, organizada e com facilidade em aprender novas tecnologias, além de valorizar o trabalho em equipe. Estou em busca da minha primeira oportunidade como desenvolvedor Front-End, Back-End ou até mesmo FullStack, para aplicar meus conhecimentos, aprender com profissionais mais experientes e contribuir para projetos desafiadores e de grande impacto."
 
 <p align="left">
     <a href="https://github.com/Victorcristo?tab=followers">
@@ -52,35 +52,11 @@
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
