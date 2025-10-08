@@ -74,7 +74,3 @@
 ### 📊 Estatísticas
 
 ![Victorcristo GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorcristo&show_icons=true&theme=aura_dark)
-
-![Snake animator](https://github.com/Victorcristo/Victorcristo/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Victorcristo&repo=Victorcristo&theme=react)](https://github.com/Victorcristo/Victorcristo)
