@@ -5,7 +5,6 @@
 "Me chamo Victor Cristo, tenho 24 anos e sou natural de Belém do Pará. Sou bacharel em Ciência da Computação pela Universidade da Amazônia (UNAMA) e venho me dedicando ao aprimoramento constante das minhas habilidades em programação com foco em se tornar um desenvolvedor Full Stack. Embora ainda não possua experiência em empresas da área, venho adquirindo conhecimento prático por meio de projetos e trilhas de estudo, onde utilizo tecnologias como HTML, CSS, Python, React e bancos de dados relacionais e não relacionais. Sou uma pessoa proativa, organizada e com facilidade em aprender novas tecnologias, além de valorizar o trabalho em equipe. Estou em busca da minha primeira oportunidade como desenvolvedor Front-End, Back-End ou até mesmo FullStack, para aplicar meus conhecimentos, aprender com profissionais mais experientes e contribuir para projetos desafiadores e de grande impacto."
 
 <p align="left">
-    <a href="https://github.com/Victorcristo" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/victor-cristo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:victor.alencar.oliveira@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
