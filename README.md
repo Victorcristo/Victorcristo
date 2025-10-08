@@ -5,24 +5,9 @@
 "Me chamo Victor Cristo, tenho 24 anos e sou natural de Belém do Pará. Sou bacharel em Ciência da Computação pela Universidade da Amazônia (UNAMA) e venho me dedicando ao aprimoramento constante das minhas habilidades em programação com foco em se tornar um desenvolvedor Full Stack. Embora ainda não possua experiência em empresas da área, venho adquirindo conhecimento prático por meio de projetos e trilhas de estudo, onde utilizo tecnologias como HTML, CSS, Python, React e bancos de dados relacionais e não relacionais. Sou uma pessoa proativa, organizada e com facilidade em aprender novas tecnologias, além de valorizar o trabalho em equipe. Estou em busca da minha primeira oportunidade como desenvolvedor Front-End, Back-End ou até mesmo FullStack, para aplicar meus conhecimentos, aprender com profissionais mais experientes e contribuir para projetos desafiadores e de grande impacto."
 
 <p align="left">
-    <a href="https://github.com/Victorcristo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Victorcristo?color=292929&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    </a> 
-    <a href="https://github.com/Victorcristo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Victorcristo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
----
+    <a href="https://github.com/Victorcristo" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/victor-cristo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:victor.alencar.oliveira@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -44,11 +29,11 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Javascript"
+    title="Javascript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -60,11 +45,27 @@
 />
 <img 
     align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
 />
 
 <br/>
