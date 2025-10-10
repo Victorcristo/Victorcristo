@@ -74,13 +74,12 @@
 
 ###
 
+<img src="https://streak-stats.demolab.com?user=victorcristo&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Victorcristo&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=victorcristo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcristo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" width="350" height="150" alt="languages graph"  />
 </div>
-
-###
-
-![Victorcristo GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorcristo&show_icons=true&theme=aura_dark)
 
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victorcristo/Victorcristo/output/github-contribution-grid-snake-dark.svg">
