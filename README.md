@@ -72,4 +72,18 @@
 
 ### 📊 Estatísticas
 
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Victorcristo&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 ![Victorcristo GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorcristo&show_icons=true&theme=aura_dark)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Victorcristo/Victorcristo/output/snake.svg" alt="Snake animation" />
+
+###
